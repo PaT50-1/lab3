@@ -15,3 +15,9 @@
     padding: 20px;
     text-align: center;
 }
+
+.site-content {
+    padding: 40px;
+    line-height: 1.6;
+    min-height: 300px;
+}
